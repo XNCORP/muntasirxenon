@@ -6,16 +6,16 @@ import { MusicPlayer } from "@/components/ui/music-player"
 
 // ─── Your Profile Config ──────────────────────────────────────────────────────
 const PROFILE = {
-  name: "RASHED",
+  name: "SULTAN",
   location: "Chattogram, Bangladesh",
   photo: "/mypic.png",
 }
 
 const SOCIAL_LINKS = {
   discord:   "https://discord.com/users/1282738365711519785",
-  instagram: "https://www.instagram.com/rashedxenon",
-  facebook:  "https://www.facebook.com/rashedxenon/",
-  whatsapp:  "https://wa.me/8801625215258",
+  instagram: "https://www.instagram.com/muntasirxenon/",
+  facebook:  "https://www.facebook.com/sultanahmed.sultanahmed.1656854",
+  whatsapp:  "https://wa.me/8801745544848",
 }
 // ─────────────────────────────────────────────────────────────────────────────
 
