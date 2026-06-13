@@ -6,8 +6,8 @@ import { MusicPlayer } from "@/components/ui/music-player"
 
 // ─── Your Profile Config ──────────────────────────────────────────────────────
 const PROFILE = {
-  name: "SULTAN",
-  location: "Chattogram, Bangladesh",
+  name: "MUNTASIR",
+  location: "Sylhet, Bangladesh",
   photo: "/mypic.png",
 }
 
