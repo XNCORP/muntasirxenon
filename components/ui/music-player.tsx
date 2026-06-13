@@ -58,7 +58,7 @@ export function MusicPlayer() {
   const progressRef = useRef<HTMLDivElement>(null)
   const [isPlaying, setIsPlaying] = useState(false)
   const [currentTime, setCurrentTime] = useState(0)
-  const [duration, setDuration] = useState(74)
+  const [duration, setDuration] = useState(153)
   const [coverError, setCoverError] = useState(false)
   const hasAudio = Boolean(MUSIC_CONFIG.src)
 
