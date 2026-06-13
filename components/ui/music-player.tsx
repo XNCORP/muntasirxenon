@@ -2,10 +2,9 @@
 
 import { useState, useRef, useEffect, useCallback } from "react"
 
-// ─── Configure your music here ────────────────────────────────────────────────
 export const MUSIC_CONFIG = {
   src: "/music.mp3",          // e.g. "/audio/song.mp3" or an https:// URL
-  title: "Wassup Homiee !",
+  title: "Silence !",
   cover: "",        // e.g. "/cover.jpg"
 }
 // ─────────────────────────────────────────────────────────────────────────────
